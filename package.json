@@ -1,0 +1,34 @@
+{
+  "name": "react.carousel",
+  "version": "1.0.0",
+  "description": "A react.js Carousel component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/React-Components-Organization/react.carousel.git"
+  },
+  "keywords": [
+    "react-component",
+    "react-carousel",
+    "react.carousel",
+    "carousel",
+    "react.js",
+    "react"
+  ],
+  "author": "Olivier Colonna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/React-Components-Organization/react.carousel/issues"
+  },
+  "babel": {
+    "presets": [
+      "es2015",
+      "stage-0",
+      "react"
+    ]
+  },
+  "homepage": "https://github.com/React-Components-Organization/react.carousel#readme"
+}
